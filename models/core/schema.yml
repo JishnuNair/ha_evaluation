@@ -1,0 +1,8 @@
+version: 2
+
+sources: 
+    - name: core
+      database: housinganywhere-356710
+      schema: casestudy
+      tables:
+        - name: italy_listings
